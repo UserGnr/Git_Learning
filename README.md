@@ -1,0 +1,1 @@
+# Repositório para estudo e testes do Git e GitHub
